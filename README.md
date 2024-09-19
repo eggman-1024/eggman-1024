@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   -  **_Object Detection & Tracking based on 4D LiDAR_(have Doppler velocity)**
   -  **_AI framework development_(PaddlePaddle)**
       -  https://github.com/PaddlePaddle/Paddle.
-- 📫 How to reach me: 3160391266@qq.com
+- 📫 How to reach me: rtzhang1024@gmail.com
 - ⚡ Hobby:
   - play **CF** (not **~~codeforce~~**, but **crossfire**)
   - keep fit
