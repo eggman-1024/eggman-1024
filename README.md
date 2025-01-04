@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 🔭 A Electronic Information(Artificial Intelligence) graduate student in JNU, Zhuhai.
 - 🌱 I’m currently learning:
   -  **_Object Detection & Tracking based on 4D LiDAR_(have Doppler velocity)**
-  -  **_AI framework development_(PaddlePaddle)**
-      -  https://github.com/PaddlePaddle/Paddle.
+
 - 📫 How to reach me: rtzhang1024@gmail.com
 - ⚡ Hobby:
   - play **CF** (not **~~codeforce~~**, but **crossfire**)
