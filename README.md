@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm ruizhidetuzi12138
+### This is ruizhidetuzi12138
 - 🔭 A Electronic Information(Artificial Intelligence) graduate student in JNU, Zhuhai.
 - 🌱 I’m currently learning:
   -  **_Object Detection & Tracking based on 4D LiDAR_(have Doppler velocity)**
