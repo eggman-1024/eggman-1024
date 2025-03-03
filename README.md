@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### This is ruizhidetuzi12138
 - 🔭 A Electronic Information(Artificial Intelligence) graduate student in JNU, Zhuhai.
 - 🌱 I’m currently learning:
-  -  **_Object Detection & Tracking based on 4D LiDAR_(have Doppler velocity)**
+  -  **_Object Detection based on 4D LiDAR_(have Doppler velocity)**
 
 - 📫 How to reach me: rtzhang1024@gmail.com
 - ⚡ Hobby:
