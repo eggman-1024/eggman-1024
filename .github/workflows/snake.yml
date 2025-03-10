@@ -25,7 +25,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: eggman-1024
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -37,4 +37,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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        
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
+          # 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        
