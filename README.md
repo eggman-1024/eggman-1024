@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-
+![eggman-1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggman-1024&show_icons=true&theme=transparent)
 <a href="https://github.com/eggman-1024?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=eggman-1024&show_icons=true&theme=algolia&count_private=true" />
