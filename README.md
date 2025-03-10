@@ -31,11 +31,6 @@ Here are some ideas to get you started:
 
 
 
-![eggman-1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggman-1024&show_icons=true&theme=transparent)
-<a href="https://github.com/eggman-1024?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=eggman-1024&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggman-1024&layout=compact" />
+![eggman-1024's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eggman-1024&show_icons=true&theme=transparent)
 
 ![eggman-1024's github activity graph](https://raw.githubusercontent.com/eggman-1024/eggman-1024/refs/heads/output/github-contribution-grid-snake.svg)
